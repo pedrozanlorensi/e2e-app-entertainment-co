@@ -3,4 +3,4 @@ runtime: nodejs20
 
 env:
   - name: DATABRICKS_SERVING_ENDPOINT
-    valueFrom: serving-endpoint
+    value: mas-c9c3014a-endpoint
