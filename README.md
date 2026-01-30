@@ -47,6 +47,17 @@ This demo resolves that by combining:
 
 ---
 
+## ⚠️ Disclaimer (Example / Reference Only)
+
+This repository is provided **as example code and reference material only**.
+
+- **No maintenance obligations**: The author(s) do not provide ongoing support, updates, security patches, or operational assistance.
+- **No warranties**: The contents are provided “as-is”, without warranties of any kind (express or implied), including fitness for a particular purpose.
+- **Not production-ready by default**: Any production deployment requires **critical evaluation**, security review, governance alignment, performance testing, cost modeling, and reliability hardening for your environment.
+- **Your responsibility**: You are responsible for validating correctness, compliance, access controls, and data protection requirements before using any part of this project in a real system.
+
+---
+
 ## 🏗️ Architecture
 
 ```
